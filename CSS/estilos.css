@@ -1,0 +1,32 @@
+nav,.contenedor,footer,article,header,.principal,aside{
+    max-width: 93%;
+    margin: auto;
+text-align: center
+}
+
+
+nav{
+    background-color:yellow;
+}
+.contenedor{
+    background-color: rgb(128, 98, 0);
+}
+footer{
+    background-color: rgb(255, 136, 0);
+}
+article{
+    background-color:green;
+}
+header{
+    background-color: rgb(165, 42, 42);
+}
+.principal{
+    background-color: rgb(243, 79, 202);
+    display: inline-block;
+    width: 65%;
+}
+aside{
+    background-color: rgb(0, 217, 255);
+    display: inline-block;
+    width:28% ;
+}
