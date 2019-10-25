@@ -1,32 +1,33 @@
 nav,.contenedor,footer,article,header,.principal,aside{
-    max-width: 93%;
+    max-width:  93% ;
     margin: auto;
-text-align: center
+text-align: center;
+padding =margen interno ;
 }
 
 
 nav{
-    background-color:yellow;
+    background-color:rgb(233, 233, 245);
 }
 .contenedor{
-    background-color: rgb(128, 98, 0);
+    background-color: rgb(16, 94, 211);
 }
 footer{
     background-color: rgb(255, 136, 0);
 }
 article{
-    background-color:green;
+    background-color:rgb(231, 230, 238);
 }
 header{
-    background-color: rgb(165, 42, 42);
+    background-color: rgb(54, 30, 190);
 }
-.principal{
-    background-color: rgb(243, 79, 202);
+.Principal{
+    background-color: rgb(233, 128, 7);
     display: inline-block;
     width: 65%;
 }
 aside{
-    background-color: rgb(0, 217, 255);
-    display: inline-block;
-    width:28% ;
+    background-color: rgb(47, 0, 255);
+   display: inline-block;
+    width: 30%;
 }
